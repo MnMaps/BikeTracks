@@ -1,0 +1,12 @@
+.popup-foto{
+    background-color: whitesmoke;
+    border-radius: 5px;
+    position: relative;
+    top: -355px;
+    box-shadow: 0 0 15px darkblue;
+}
+
+#foto img{
+    width: 400px;
+    padding: 10px;
+}
