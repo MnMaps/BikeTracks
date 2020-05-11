@@ -115,7 +115,7 @@ function init(){
         let fotoCod = feature.get('cod');
         if (fotoCod != undefined){
             popUpLayer.setPosition(clickedCoordinate);
-            popUpFoto.innerHTML = '<img src="./image/' + fotoCod + '.jpg" alt=""><code>';
+            popUpFoto.innerHTML = '<img src="./images/' + fotoCod + '.jpg" alt=""><code>';
         }
     })
   })
