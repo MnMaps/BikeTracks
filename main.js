@@ -51,7 +51,7 @@ function init(){
         zindex: 2,
         style: new ol.style.Style({
             image: new ol.style.Icon({
-                src: './image/fotopoint.png',
+                src: './images/fotopoint.png',
                 size: [512, 512],
                 offset: [0, 0],
                 opacity: 1,
@@ -78,7 +78,7 @@ function init(){
     },
       style: new ol.style.Style({
         image: new ol.style.Icon({
-            src: './image/fotopoint.png',
+            src: './images/fotopoint.png',
             size: [512, 512],
             offset: [0, 0],
             opacity: 1,
